@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576846469 source:/home/wyf/bytes_control_function/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unp.h>
+
