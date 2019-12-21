@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576898050 source:/home/wyf/Translate_addr/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unp.h>
+
